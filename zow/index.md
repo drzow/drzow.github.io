@@ -1,7 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
----
 layout: home
 ---
 * Biography
@@ -13,5 +12,3 @@ layout: home
 * Projects
 * Geek Code
 * The Meaning of "Zow"
-
----
